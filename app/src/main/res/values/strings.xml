@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">diccionari</string>
+    <string name="cannot_write">cannot write</string>
+    <string name="cannot_read">cannot read</string>
+</resources>
