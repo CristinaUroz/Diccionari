@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
     private int x_aux=0;
     private int y_aux=0;
     private boolean tocat = false;
-    private int im_i=1204;
+    private int im_i=0;
 
     @Override
     protected void onStop(){
